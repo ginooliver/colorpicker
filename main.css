@@ -1,0 +1,21 @@
+body {
+	padding-top: 70px;
+}
+
+.content, li {
+	text-align: center;
+}
+
+.selection {
+	height: 250px;
+	width: 250px;
+}
+
+.selected {
+	background-color: gray;
+}
+
+.opaq {
+	background-color: rgba(242, 242, 247, 0.95);
+	border-bottom: 0px solid;
+}
